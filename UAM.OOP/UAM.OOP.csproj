@@ -50,6 +50,7 @@
     <Compile Include="Clases Simples\Estudiante.cs" />
     <Compile Include="Clases Simples\Persona.cs" />
     <Compile Include="Clases Simples\Profesor.cs" />
+    <Compile Include="Colecciones\Colecciones.cs" />
     <Compile Include="Generics\MyGenericClass.cs" />
     <Compile Include="Inteface\Gente.cs" />
     <Compile Include="Inteface\IAcciones.cs" />

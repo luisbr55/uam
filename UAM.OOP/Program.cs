@@ -29,7 +29,7 @@ namespace UAM.OOP
 			DeporteCR deporteCR = new DeporteCR();
 			DeporteUSA deporteUSA = new DeporteUSA();
 
-			deporteCR.Basket();
+            /*deporteCR.Basket();
 			deporteUSA.Basket();
 
 			deporteCR.Futbol();
@@ -42,6 +42,13 @@ namespace UAM.OOP
 			deporteUSA.BaseBall();
 
 			Console.ReadKey();
+            */
+
+            Colecciones coleccion = new Colecciones();
+
+            coleccion.ListaString();
+            Console.ReadKey();
+
 		}
 	}
 }
